@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vadim
 
-I'm a software engineer passionate about highload, low-level programming, backend, devops. Welcome to my corner on GitHub!
+I'm a software engineer passionate about HighLoad, Backend, DevOps Welcome to my corner on GitHub!
 
 🔭 **I'm currently working on:** FavbetTech
 🌱 **I'm learning:** Rust, Python, 
@@ -8,8 +8,8 @@ I'm a software engineer passionate about highload, low-level programming, backen
 
 ### 🚀 My Skills:
 
-- **Languages:** Python(my main language), Go, Rust
-- **Tools & Technologies:** [Frameworks, tools, or technologies you work with]
+- **Languages:** Python(main language), Go, Rust
+- **Tools & Technologies:** [FastAPI]
 - **Interests:** HighLoad, Backend, DevOps
 
 ### 🌟 Recent Projects:
