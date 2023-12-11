@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋 I'm Vadim
 
-<!--
-**Twenty1th/Twenty1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about highload, low-level programming, backend, devops. Welcome to my corner on GitHub!
 
-Here are some ideas to get you started:
+🔭 **I'm currently working on:** FavbetTech
+🌱 **I'm learning:** Rust, Python, 
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/vadim-belevtsov-670331189/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Skills:
+
+- **Languages:** Python(my main language), Go, Rust
+- **Tools & Technologies:** [Frameworks, tools, or technologies you work with]
+- **Interests:** HighLoad, Backend, DevOps
+
+### 🌟 Recent Projects:
+
+- [Project Name](Project Link): Short description
+- [Project Name](Project Link): Short description
+
+### 📚 Latest Blog Posts:
+
+- [Blog Post Title](Blog Post Link): Brief description
+- [Blog Post Title](Blog Post Link): Brief description
+
+### 🤝 Let's Connect:
+
+- [LinkedIn](https://www.linkedin.com/in/vadim-belevtsov-670331189/)
+
+Don't hesitate to reach out! 😊
