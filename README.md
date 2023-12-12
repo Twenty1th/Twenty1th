@@ -8,7 +8,7 @@ I'm a software engineer passionate about HighLoad, Backend, DevOps Welcome to my
 
 ### 🚀 My Skills:
 
-- **Languages:** Python(main language), Go, Rust
+- **Languages:** Python(main language), Rust
 - **Tools & Technologies:** FastAPI, Django, Aiohttp, Kafka / RabbitMQ, Nginx, Docker / K8s, GCP, PostgreSQL, Mongo, Redis, Git/GitLab
 - **Interests:** HighLoad, Backend, DevOps
 
