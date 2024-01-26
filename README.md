@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vadim
 
-I'm a software engineer passionate about HighLoad, Backend, DevOps Welcome to my corner on GitHub!
+I'm a software engineer passionate about HighLoad, Backend, DevOps. Welcome to my corner on GitHub!
 
 🔭 **I'm currently working on:** FavbetTech
 🌱 **I'm learning:** Rust, Python, Golang 
@@ -8,8 +8,8 @@ I'm a software engineer passionate about HighLoad, Backend, DevOps Welcome to my
 
 ### 🚀 My Skills:
 
-- **Languages:** Python(main language), Rust, Golang
-- **Tools & Technologies:** FastAPI, Django, Aiohttp, Kafka / RabbitMQ, Nginx, Docker / K8s, GCP, PostgreSQL, Mongo, Redis, Git/GitLab, Concurency
+- **Languages:** Python, Golang
+- **Tools & Technologies:** Kafka / RabbitMQ, Nginx, Docker / K8s, GCP, PostgreSQL, Mongo, Redis, Git/GitLab
 - **Interests:** HighLoad, Backend, DevOps
 
 ### 🤝 Let's Connect:
